@@ -1,4 +1,4 @@
-# Lab: Agregando Saltos de Linea
+# Lab: Agregando Saltos de Línea
 
 ## Objetivos
 - Utiliza el elemento `<br />` crear saltos de líneas.
